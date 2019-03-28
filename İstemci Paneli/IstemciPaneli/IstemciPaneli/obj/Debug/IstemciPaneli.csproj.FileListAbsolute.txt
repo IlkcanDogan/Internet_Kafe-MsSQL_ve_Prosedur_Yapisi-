@@ -1,0 +1,20 @@
+C:\Users\MKA\source\repos\IstemciPaneli\IstemciPaneli\bin\Debug\IstemciPaneli.exe.config
+C:\Users\MKA\source\repos\IstemciPaneli\IstemciPaneli\bin\Debug\IstemciPaneli.exe
+C:\Users\MKA\source\repos\IstemciPaneli\IstemciPaneli\bin\Debug\IstemciPaneli.pdb
+C:\Users\MKA\source\repos\IstemciPaneli\IstemciPaneli\obj\Debug\IstemciPaneli.Form1.resources
+C:\Users\MKA\source\repos\IstemciPaneli\IstemciPaneli\obj\Debug\IstemciPaneli.Properties.Resources.resources
+C:\Users\MKA\source\repos\IstemciPaneli\IstemciPaneli\obj\Debug\IstemciPaneli.csproj.GenerateResource.cache
+C:\Users\MKA\source\repos\IstemciPaneli\IstemciPaneli\obj\Debug\IstemciPaneli.csproj.CoreCompileInputs.cache
+C:\Users\MKA\source\repos\IstemciPaneli\IstemciPaneli\obj\Debug\IstemciPaneli.exe
+C:\Users\MKA\source\repos\IstemciPaneli\IstemciPaneli\obj\Debug\IstemciPaneli.pdb
+C:\Users\MKA\source\repos\IstemciPaneli\IstemciPaneli\obj\Debug\IstemciPaneli.csprojAssemblyReference.cache
+D:\Yeni klasör\7) Yazılım Projeleri\İnternet Kafe Yazılım Projesi\İstemci Paneli\IstemciPaneli\IstemciPaneli\bin\Debug\IstemciPaneli.exe.config
+D:\Yeni klasör\7) Yazılım Projeleri\İnternet Kafe Yazılım Projesi\İstemci Paneli\IstemciPaneli\IstemciPaneli\bin\Debug\IstemciPaneli.exe
+D:\Yeni klasör\7) Yazılım Projeleri\İnternet Kafe Yazılım Projesi\İstemci Paneli\IstemciPaneli\IstemciPaneli\bin\Debug\IstemciPaneli.pdb
+D:\Yeni klasör\7) Yazılım Projeleri\İnternet Kafe Yazılım Projesi\İstemci Paneli\IstemciPaneli\IstemciPaneli\obj\Debug\IstemciPaneli.csprojAssemblyReference.cache
+D:\Yeni klasör\7) Yazılım Projeleri\İnternet Kafe Yazılım Projesi\İstemci Paneli\IstemciPaneli\IstemciPaneli\obj\Debug\IstemciPaneli.Form1.resources
+D:\Yeni klasör\7) Yazılım Projeleri\İnternet Kafe Yazılım Projesi\İstemci Paneli\IstemciPaneli\IstemciPaneli\obj\Debug\IstemciPaneli.Properties.Resources.resources
+D:\Yeni klasör\7) Yazılım Projeleri\İnternet Kafe Yazılım Projesi\İstemci Paneli\IstemciPaneli\IstemciPaneli\obj\Debug\IstemciPaneli.csproj.GenerateResource.cache
+D:\Yeni klasör\7) Yazılım Projeleri\İnternet Kafe Yazılım Projesi\İstemci Paneli\IstemciPaneli\IstemciPaneli\obj\Debug\IstemciPaneli.csproj.CoreCompileInputs.cache
+D:\Yeni klasör\7) Yazılım Projeleri\İnternet Kafe Yazılım Projesi\İstemci Paneli\IstemciPaneli\IstemciPaneli\obj\Debug\IstemciPaneli.exe
+D:\Yeni klasör\7) Yazılım Projeleri\İnternet Kafe Yazılım Projesi\İstemci Paneli\IstemciPaneli\IstemciPaneli\obj\Debug\IstemciPaneli.pdb

@@ -1,0 +1,36 @@
+C:\Users\MKA\source\repos\CafeYonetimPaneli\CafeYonetimPaneli\bin\Debug\CafeYonetimPaneli.exe.config
+C:\Users\MKA\source\repos\CafeYonetimPaneli\CafeYonetimPaneli\bin\Debug\CafeYonetimPaneli.exe
+C:\Users\MKA\source\repos\CafeYonetimPaneli\CafeYonetimPaneli\bin\Debug\CafeYonetimPaneli.pdb
+C:\Users\MKA\source\repos\CafeYonetimPaneli\CafeYonetimPaneli\obj\Debug\CafeYonetimPaneli.csprojAssemblyReference.cache
+C:\Users\MKA\source\repos\CafeYonetimPaneli\CafeYonetimPaneli\obj\Debug\CafeYonetimPaneli.Form1.resources
+C:\Users\MKA\source\repos\CafeYonetimPaneli\CafeYonetimPaneli\obj\Debug\CafeYonetimPaneli.Properties.Resources.resources
+C:\Users\MKA\source\repos\CafeYonetimPaneli\CafeYonetimPaneli\obj\Debug\CafeYonetimPaneli.csproj.GenerateResource.cache
+C:\Users\MKA\source\repos\CafeYonetimPaneli\CafeYonetimPaneli\obj\Debug\CafeYonetimPaneli.csproj.CoreCompileInputs.cache
+C:\Users\MKA\source\repos\CafeYonetimPaneli\CafeYonetimPaneli\obj\Debug\CafeYonetimPaneli.exe
+C:\Users\MKA\source\repos\CafeYonetimPaneli\CafeYonetimPaneli\obj\Debug\CafeYonetimPaneli.pdb
+C:\Users\MKA\source\repos\CafeYonetimPaneli\CafeYonetimPaneli\obj\Debug\CafeYonetimPaneli.Form2.resources
+C:\Users\MKA\source\repos\CafeYonetimPaneli\CafeYonetimPaneli\obj\Debug\CafeYonetimPaneli.Form3.resources
+C:\Users\MKA\Desktop\Proje\Yönetim Paneli\CafeYonetimPaneli\CafeYonetimPaneli\bin\Debug\CafeYonetimPaneli.exe.config
+C:\Users\MKA\Desktop\Proje\Yönetim Paneli\CafeYonetimPaneli\CafeYonetimPaneli\bin\Debug\CafeYonetimPaneli.exe
+C:\Users\MKA\Desktop\Proje\Yönetim Paneli\CafeYonetimPaneli\CafeYonetimPaneli\bin\Debug\CafeYonetimPaneli.pdb
+C:\Users\MKA\Desktop\Proje\Yönetim Paneli\CafeYonetimPaneli\CafeYonetimPaneli\obj\Debug\CafeYonetimPaneli.csprojAssemblyReference.cache
+C:\Users\MKA\Desktop\Proje\Yönetim Paneli\CafeYonetimPaneli\CafeYonetimPaneli\obj\Debug\CafeYonetimPaneli.Form1.resources
+C:\Users\MKA\Desktop\Proje\Yönetim Paneli\CafeYonetimPaneli\CafeYonetimPaneli\obj\Debug\CafeYonetimPaneli.Form2.resources
+C:\Users\MKA\Desktop\Proje\Yönetim Paneli\CafeYonetimPaneli\CafeYonetimPaneli\obj\Debug\CafeYonetimPaneli.Form3.resources
+C:\Users\MKA\Desktop\Proje\Yönetim Paneli\CafeYonetimPaneli\CafeYonetimPaneli\obj\Debug\CafeYonetimPaneli.Properties.Resources.resources
+C:\Users\MKA\Desktop\Proje\Yönetim Paneli\CafeYonetimPaneli\CafeYonetimPaneli\obj\Debug\CafeYonetimPaneli.csproj.GenerateResource.cache
+C:\Users\MKA\Desktop\Proje\Yönetim Paneli\CafeYonetimPaneli\CafeYonetimPaneli\obj\Debug\CafeYonetimPaneli.csproj.CoreCompileInputs.cache
+C:\Users\MKA\Desktop\Proje\Yönetim Paneli\CafeYonetimPaneli\CafeYonetimPaneli\obj\Debug\CafeYonetimPaneli.exe
+C:\Users\MKA\Desktop\Proje\Yönetim Paneli\CafeYonetimPaneli\CafeYonetimPaneli\obj\Debug\CafeYonetimPaneli.pdb
+D:\Yeni klasör\7) Yazılım Projeleri\İnternet Kafe Yazılım Projesi\Yönetim Paneli\CafeYonetimPaneli\CafeYonetimPaneli\bin\Debug\CafeYonetimPaneli.exe.config
+D:\Yeni klasör\7) Yazılım Projeleri\İnternet Kafe Yazılım Projesi\Yönetim Paneli\CafeYonetimPaneli\CafeYonetimPaneli\bin\Debug\CafeYonetimPaneli.exe
+D:\Yeni klasör\7) Yazılım Projeleri\İnternet Kafe Yazılım Projesi\Yönetim Paneli\CafeYonetimPaneli\CafeYonetimPaneli\bin\Debug\CafeYonetimPaneli.pdb
+D:\Yeni klasör\7) Yazılım Projeleri\İnternet Kafe Yazılım Projesi\Yönetim Paneli\CafeYonetimPaneli\CafeYonetimPaneli\obj\Debug\CafeYonetimPaneli.csprojAssemblyReference.cache
+D:\Yeni klasör\7) Yazılım Projeleri\İnternet Kafe Yazılım Projesi\Yönetim Paneli\CafeYonetimPaneli\CafeYonetimPaneli\obj\Debug\CafeYonetimPaneli.Form1.resources
+D:\Yeni klasör\7) Yazılım Projeleri\İnternet Kafe Yazılım Projesi\Yönetim Paneli\CafeYonetimPaneli\CafeYonetimPaneli\obj\Debug\CafeYonetimPaneli.Form2.resources
+D:\Yeni klasör\7) Yazılım Projeleri\İnternet Kafe Yazılım Projesi\Yönetim Paneli\CafeYonetimPaneli\CafeYonetimPaneli\obj\Debug\CafeYonetimPaneli.Form3.resources
+D:\Yeni klasör\7) Yazılım Projeleri\İnternet Kafe Yazılım Projesi\Yönetim Paneli\CafeYonetimPaneli\CafeYonetimPaneli\obj\Debug\CafeYonetimPaneli.Properties.Resources.resources
+D:\Yeni klasör\7) Yazılım Projeleri\İnternet Kafe Yazılım Projesi\Yönetim Paneli\CafeYonetimPaneli\CafeYonetimPaneli\obj\Debug\CafeYonetimPaneli.csproj.GenerateResource.cache
+D:\Yeni klasör\7) Yazılım Projeleri\İnternet Kafe Yazılım Projesi\Yönetim Paneli\CafeYonetimPaneli\CafeYonetimPaneli\obj\Debug\CafeYonetimPaneli.csproj.CoreCompileInputs.cache
+D:\Yeni klasör\7) Yazılım Projeleri\İnternet Kafe Yazılım Projesi\Yönetim Paneli\CafeYonetimPaneli\CafeYonetimPaneli\obj\Debug\CafeYonetimPaneli.exe
+D:\Yeni klasör\7) Yazılım Projeleri\İnternet Kafe Yazılım Projesi\Yönetim Paneli\CafeYonetimPaneli\CafeYonetimPaneli\obj\Debug\CafeYonetimPaneli.pdb
